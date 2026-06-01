@@ -1,4 +1,4 @@
-# 💻 CodeAlpha Web Development Internship
+# 💻 CodeAlpha C++ Programming Internship
 
 Completed all 4 tasks for CodeAlpha Internship - June 2026
 
@@ -16,11 +16,8 @@ Completed all 4 tasks for CodeAlpha Internship - June 2026
 4. **Task 4 - [Banking System]**
    
 
-### ⚠️ Note
-Live demo links are not added. To run any project, go to respective task folder and open `index.html` in browser.
-
-### 🛠️ Tech Used
-HTML5, CSS3, JavaScript
+### How to run
+compile using: 'f11' on dev++
 
 ### 👩‍💻 Submitted By
 Maithili | CodeAlpha Internship 2026
